@@ -1,0 +1,25 @@
+{
+  "name": "@maliktayab/my-unique-npm-package",
+  "version": "1.0.0",
+  "description": "A simple utility package to add two numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utility",
+    "add",
+    "math",
+    "npm-package"
+  ],
+  "author": "Malik Tayab",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TayabGhafor/NPM-Package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TayabGhafor/NPM-Package/issues"
+  },
+  "homepage": "https://github.com/TayabGhafor/NPM-Package#readme"
+}
